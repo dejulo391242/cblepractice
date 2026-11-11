@@ -76,7 +76,7 @@ function navigate(id, push = true) {
 }
 
 function homeHtml() {
-  return `<section class="home"><div class="hero"><div><p class="eyebrow">CBLE PREP</p><h1>Good luck!</h1><p class="intro">Practice exams, one question at a time. Pick up where you left off and review your answers when you finish.</p></div><div class="hero-stat"><strong>${exams.reduce((total, exam) => total + exam.questions.length, 0)}</strong><span>questions to work through</span></div></div><div class="exam-cards">${exams.map((exam, index) => {
+  return `<section class="home"><div class="hero"><div><p class="eyebrow">CBLE PREP</p><h1>Good luck!</h1><p class="intro">Self-paced practice exams with review, answer keys, and a Reference Desk tool.</p></div><div class="hero-stat"><strong>${exams.reduce((total, exam) => total + exam.questions.length, 0)}</strong><span>questions to work through</span></div></div><div class="exam-cards">${exams.map((exam, index) => {
     const state = states.get(exam.id);
     const count = answeredCount(state);
     const result = state.submitted ? results(exam, state) : null;
