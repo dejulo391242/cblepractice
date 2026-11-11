@@ -1,0 +1,16 @@
+CBLE Study — three-exam update
+
+Adds May 2024, October 2024 and April 2025, while retaining October 2025 and April 2026. Total: five exams, 400 questions.
+
+1. Unzip this download.
+2. Open https://github.com/dejulo391242/cblestudy
+3. Choose Add file → Upload files.
+4. Drag in app.js, exams.json and the assets folder from this package. Upload their contents at the repository root, not inside an extra folder. Existing files with the same names are updated; keep the existing assets.
+5. Commit changes to main. GitHub Pages will update your existing website.
+6. Refresh https://dejulo391242.github.io/cblestudy/ after deployment completes. If you still see two exams, reload bypassing the browser cache.
+
+No changes to Pages settings are needed. Existing exam IDs and their question order are unchanged, preserving compatible saved progress in the same browser.
+
+New exams use the supplied CBP answer keys, with reference citations shown after submission. April 2025 question 55 accepts C or D. Scanned exhibits and shared practical-exercise facts are attached to the relevant questions. Original question pages are available in an expandable view for checking table layout. Voluntary survey questions are excluded.
+
+For future additions, provide the next exam and its answer key, and the repository URL. This package does not publish changes automatically.
