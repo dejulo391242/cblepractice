@@ -76,12 +76,12 @@ function navigate(id, push = true) {
 }
 
 function homeHtml() {
-  return `<section class="home"><div class="hero"><div><p class="eyebrow">CUSTOMS BROKER EXAM PREP</p><h1>A little closer<br>to exam day.</h1><p class="intro">Practice exams, one question at a time. Pick up where you left off and review your answers when you finish.</p></div><div class="hero-stat"><strong>${exams.reduce((total, exam) => total + exam.questions.length, 0)}</strong><span>questions to work through</span></div></div><div class="exam-cards">${exams.map((exam, index) => {
+  return `<section class="home"><div class="hero"><div><p class="eyebrow">CBLE PREP</p><h1>Good luck!</h1><p class="intro">Practice exams, one question at a time. Pick up where you left off and review your answers when you finish.</p></div><div class="hero-stat"><strong>${exams.reduce((total, exam) => total + exam.questions.length, 0)}</strong><span>questions to work through</span></div></div><div class="exam-cards">${exams.map((exam, index) => {
     const state = states.get(exam.id);
     const count = answeredCount(state);
     const result = state.submitted ? results(exam, state) : null;
     return `<article class="exam-card"><div class="card-top"><span class="card-number">${String(index + 1).padStart(2, '0')}</span><span class="badge ${result ? 'done' : ''}">${result ? 'COMPLETED' : count ? 'IN PROGRESS' : 'READY WHEN YOU ARE'}</span></div><h2>${escapeHtml(exam.title)}</h2><p class="meta">${exam.questions.length} questions · Original order · Self-paced</p><div class="card-progress"><div class="progress-label"><span>${result ? `Score ${result.score} / ${exam.questions.length}` : `${count} of ${exam.questions.length} answered`}</span><span>${result ? `${result.percentage}%` : count ? 'Progress saved' : 'New attempt'}</span></div><div class="progress-track"><div style="width:${result ? result.percentage : count / exam.questions.length * 100}%"></div></div></div><div class="card-actions"><button class="button primary" data-open="${exam.id}">${result ? 'Review results' : count ? 'Continue exam' : 'Start exam'} <span aria-hidden="true">→</span></button>${count || state.submitted ? `<button class="button quiet" data-reset="${exam.id}">Start over</button>` : ''}</div></article>`;
-  }).join('')}</div><div class="home-notes"><p>Answer, skip, or flag a question to revisit. Your progress is saved in this browser.</p><p>Scoring follows the supplied answer keys, including their notes about multiple accepted answers and credited questions.</p></div></section>`;
+  }).join('')}</div><div class="home-notes"><p>Answer, skip, or flag a question to revisit. Progress is saved in this browser.</p><p>Scoring follows the supplied answer keys, including their notes about multiple accepted answers and credited questions.</p></div></section>`;
 }
 
 function navigationHtml(exam, state) {
