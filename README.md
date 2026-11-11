@@ -4,7 +4,7 @@ These are the past exams given over the last years with 160 questions, source ex
 
 ## Adding future exams
 
-Keep this repository and website. Supply the next exam PDF and answer key for conversion, along with this repository's URL. The conversion should append a new exam to exams.json and add any images to assets/. Existing exams stay available. Upload the updated exams.json and new images, commit, and GitHub Pages republishes the same address.
+The conversion should append a new exam to exams.json and add any images to assets/. Existing exams stay available. Upload the updated exams.json and new images, commit, and GitHub Pages republishes the same address.
 
 The menu and question counts update automatically. Keep each existing exam's ID and question order unchanged so its saved browser progress remains compatible. Use a new unique ID for each new exam, and unique filenames for its exhibits.
 
