@@ -9092,5 +9092,1996 @@
       }
     ],
     "explanationLabel": "Answer-key references"
+  },
+  {
+    "id": "oct2026",
+    "title": "October 2026",
+    "explanationLabel": "Answer-key references",
+    "questions": [
+      {
+        "number": 1,
+        "category": "Broker Compliance",
+        "stem": "On January 31, 2021, ABC Imports (ABC) issued a power of attorney to XYZ Brokers, LLC (XYZ) granting XYZ the authority to transact customs business on behalf of ABC. Of the four choices below, which scenario describes a conflict of interest?",
+        "options": [
+          "An employee of XYZ has a personal friendship with an employee of ABC.",
+          "An employee of XYZ imports merchandise of the same general character as ABC without ABC’s knowledge.",
+          "XYZ has several clients that import merchandise of the same general character as ABC.",
+          "XYZ imports merchandise of the same general character as its client after providing the client full knowledge of the facts."
+        ],
+        "accepted": [
+          1
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 111.31",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-3.jpg",
+            "label": "Original exam page 3"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "category": "Broker Compliance",
+        "stem": "Of the four choices below, who is responsible for including a statement in their triennial status report asserting whether he, she, or it still meets the applicable requirements of 19 CFR 111.11 and 111.19 to qualify for a customs broker license and national permit?",
+        "options": [
+          "A freight forwarder with a filer code authorized to file Importer Security Filing (ISF) data with CBP.",
+          "An individual broker whose license was revoked by operation of law during the reporting period.",
+          "A corporation with an active customs broker license and national permit.",
+          "A self-filing importer who has a filer code but not a customs broker license."
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 111.30(d)(3)(i)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-3.jpg",
+            "label": "Original exam page 3"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "category": "Broker Compliance",
+        "stem": "Licensed customs broker Dennis Parker was the corporate license qualifier and sole qualifying officer for Owl B There Logistics (Owl B) until his employment was terminated six months ago. Mr. Parker immediately provided written notice to CBP of his termination, but Owl B has not yet identified a new qualifying officer. Over the past six months, Owl B has continued to transact customs business on behalf of clients. Based on this scenario, which ONE of the following statements is FALSE?",
+        "options": [
+          "Owl B has demonstrated grounds for the suspension or revocation of its corporate license under 19 CFR 111.53(h). CBP may revoke Owl B's license and national permit by operation of law.",
+          "Owl B is liable for a monetary penalty for each transaction of customs business conducted after Mr. Parker’s termination, not to exceed an aggregate of $10,000.00 for all transactions.",
+          "Mr. Parker fulfilled his responsibility to CBP as an individually licensed broker and is not liable for violations made by Owl B after his termination.",
+          "In addition to transacting customs business without a qualifying officer, Owl B also failed to provide CBP with timely notification of a change in its organization."
+        ],
+        "accepted": [
+          1
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 111.4; 19 CFR 111.91(b)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-3.jpg",
+            "label": "Original exam page 3"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "category": "Broker Compliance",
+        "stem": "A corporate customs broker, Global Trade Solutions Inc. (Global), employs multiple licensed customs brokers (LCBs), some of whom are corporate officers and some of whom are employees. Global's responsible supervision and control plan designates a specific LCB as the broker of record for each client account. One of Global’s LCB employees, Julia Pryne, has been on extended leave for several months. During this time, an unlicensed employee who normally works under Ms. Pryne’s supervision has been signing customs entry documents and communicating directly with CBP on behalf of Ms. Pryne’s client, without Ms. Pryne’s knowledge or guidance. Global’s corporate officers and other LCB employees are aware of the situation but do not intervene. If CBP determines this scenario constitutes a breach of responsible supervision and control, who is accountable for the breach?",
+        "options": [
+          "Julia Pryne",
+          "Julia Pryne’s unlicensed employee",
+          "Every licensed officer of Global Trade Solutions Inc.",
+          "All licensed officers and licensed employees of Global Trade Solutions Inc."
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 111.1; 19 CFR 111.28(a)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-4.jpg",
+            "label": "Original exam page 4"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "category": "Broker Compliance",
+        "stem": "Which ONE of the following individuals is required to complete 36 credits of qualifying continuing broker education within the 2027-2030 triennial reporting period?",
+        "options": [
+          "An individually licensed customs broker who has held his license since 2005 and voluntarily suspended his license from January 2025 through December 2035.",
+          "An individually licensed customs broker who has held her license since 2024, voluntarily suspended her license in June 2026, and reinstated her license in January 2029.",
+          "An individually licensed customs broker who has continuously held her license since 2028.",
+          "An individually licensed customs broker who has continuously held his license since 2026."
+        ],
+        "accepted": [
+          3
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 111.102(a)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-4.jpg",
+            "label": "Original exam page 4"
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "category": "Broker Compliance",
+        "stem": "Beginning in 2027, when must an individually licensed customs broker subject to the continuing broker education requirement report and certify completion of their continuing education credits?",
+        "options": [
+          "At the end of each fiscal year",
+          "Upon completion of the required number of qualifying continuing broker education credits",
+          "Triennially, or every three years",
+          "Only upon receiving a request from CBP"
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 111.102(c)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-4.jpg",
+            "label": "Original exam page 4"
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "category": "Broker Compliance",
+        "stem": "Which ONE of the following statements regarding the accreditation and providers of qualifying continuing broker education is TRUE?",
+        "options": [
+          "A CBP-selected accreditor must review and accredit training offered by a U.S. government agency for the training to be qualified for continuing broker education credit.",
+          "Qualifying continuing broker education may only be offered by private entities that have successfully passed the CBP-selected accreditor evaluation process.",
+          "Any training or educational activity whose content is relevant to customs business offered by CBP does not require accreditation.",
+          "Educational activities offered by another U.S. government agency are strictly excluded from qualifying as continuing broker education."
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 111.103",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-5.jpg",
+            "label": "Original exam page 5"
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "category": "Broker Compliance",
+        "stem": "CBP issued a notice to individually licensed customs broker Ivette Perez, indicating that Ms. Perez had failed to record and certify compliance with the continuing broker education requirement in accordance with 19 CFR 111.30(d). To prevent her license from being suspended, Ms. Perez must submit a corrected status report, reflecting her compliance with the continuing broker education requirement on or before _____ from the issuance of CBP’s notification.",
+        "options": [
+          "15 business days",
+          "30 calendar days",
+          "60 calendar days",
+          "60 business days"
+        ],
+        "accepted": [
+          1
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 111.104(b)(2)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-5.jpg",
+            "label": "Original exam page 5"
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "category": "Broker Compliance",
+        "stem": "John Eastman earned his broker license in 1980 and was admitted to the Court of International Trade in 1990. He is retired and is not actively engaged in transacting business as a broker. As an expert in Customs law, he presented at WESTCON 2025, an annual convention of customs brokers and freight forwarders. WESTCON is an educational activity approved for continuing education credit by a CBP-selected accreditor, and Mr. Eastman was approved as a speaker at WESTCON. Mr. Eastman spent three hours preparing a presentation on Section 301 of the Trade Act of 1974 and two hours delivering it. Based on this scenario, what is the maximum number of continuing education credits that Mr. Eastman may claim for his WESTCON 2025 presentation?",
+        "options": [
+          "0",
+          "2",
+          "3",
+          "5"
+        ],
+        "accepted": [
+          1
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 111.102; 19 CFR 111.103; 19 CFR 111.30(d)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-5.jpg",
+            "label": "Original exam page 5"
+          }
+        ]
+      },
+      {
+        "number": 10,
+        "category": "Broker Compliance",
+        "stem": "Which ONE of the following actions is NOT grounds for the suspension or revocation of a broker's license?",
+        "options": [
+          "A broker knowingly made a misleading statement on his or her license application.",
+          "A broker was convicted of a felony involving embezzlement.",
+          "A broker knowingly works with a client whose broker license was cancelled “with prejudice.”",
+          "A broker knowingly employed a felon without CBP approval."
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 111.53",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-6.jpg",
+            "label": "Original exam page 6"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "category": "Broker Compliance",
+        "stem": "Ace Brokerage, Inc. (Ace Brokerage) is a wholly-owned subsidiary of Ace Logistics, Inc. (Ace Logistics) and Ace Brokerage holds a customs broker license and national permit. The power of attorney agreements between Ace Brokerage and its clients contain no language making the agreement binding on Ace Brokerage’s heirs, assigns, or successors. In 2026, Ace Brokerage will merge into Ace Logistics, and Ace Brokerage will cease to exist. Prior to the merger, Ace Logistics is not a licensed customs broker. Ace Logistics intends to conduct customs business on behalf of Ace Brokerage’s former clients following the merger. Based on this scenario, which ONE of the following statements is TRUE?",
+        "options": [
+          "Ace Logistics must obtain new powers of attorney before it can transact Customs business on behalf of Ace Brokerage’s former clients.",
+          "Ace Logistics must designate a licensed officer within 120 days of the merger in order to maintain use of Ace Brokerage’s customs broker license.",
+          "Ace Brokerage’s national permit is transferable to Ace Logistics.",
+          "Ace Logistics may transact customs business under Ace Brokerage’s license once the merger is complete."
+        ],
+        "accepted": [
+          0
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 141.32; 19 CFR 141.37; 19 CFR 141.46",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-6.jpg",
+            "label": "Original exam page 6"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "category": "Broker Compliance",
+        "stem": "Which ONE of the following business relationships is prohibited for customs brokers?",
+        "options": [
+          "Compensating an unlicensed freight forwarder for the client’s freight charges.",
+          "Charging higher than market rate for services rendered to importers.",
+          "Compensating an unlicensed importer for referring brokerage business.",
+          "Charging a duty outlay fee for processing duty payments for importers."
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 111.36(b)-(c)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-6.jpg",
+            "label": "Original exam page 6"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "category": "Broker Compliance",
+        "stem": "Kristine Cheng received her individual customs broker license in September 2025. In November 2025, Ms. Cheng received her national permit and filer code and began conducting customs business from her office in Los Angeles, California. In December 2025, she hired Michael Yu, and in January 2026, she hired John Xiao. Neither Mr. Yu nor Mr. Xiao was licensed as a customs broker, but they both prepared, entered, and transmitted entries on behalf of Ms. Cheng. Ms. Cheng executed a power of attorney that authorized Mr. Yu to sign customs documents, but Ms. Cheng did not file the power of attorney with CBP. She did not execute a customs power of attorney with Mr. Xiao but filed a statement with the processing Center that identified him as an employee authorized to transact customs business on her behalf. In April 2026, Mr. Yu moved to Toronto, Canada. He worked remotely for Ms. Cheng until she found a new employee in May 2026. Upon Mr. Yu's departure from the business, Ms. Cheng promptly notified the processing Center of the change in employee information. Of the four choices below, which ONE of Ms. Cheng’s actions violated CBP regulations?",
+        "options": [
+          "Ms. Cheng allowed unlicensed employees to conduct customs business on her behalf.",
+          "Ms. Cheng failed to file Mr. Yu’s power of attorney with CBP.",
+          "Ms. Cheng allowed Mr. Xiao to work for her without having executed a power of attorney that authorized him to conduct customs business on her behalf.",
+          "Ms. Cheng allowed Mr. Yu to work remotely in Toronto, Canada."
+        ],
+        "accepted": [
+          3
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 111.2(a)(2)(ii); 19 CFR 111.3(a)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-7.jpg",
+            "label": "Original exam page 7"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "category": "Broker Compliance",
+        "stem": "Customs Broker Jones receives an electronic notification via ABI Message UC2 from CBP requesting documents for an entry submitted that same day. How must Broker Jones respond?",
+        "options": [
+          "Contact CBP to request that an official CBP Form 28, Request for Information, be issued specifying the documents requested.",
+          "Produce the records within 30 calendar days of the receipt of demand.",
+          "Wait for CBP to specify the due date before producing the records.",
+          "Produce the records by the time of entry summary filing."
+        ],
+        "accepted": [
+          3
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 142.3; ACE BRPD Section 1.13",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-7.jpg",
+            "label": "Original exam page 7"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "category": "Broker Compliance",
+        "stem": "Upon the permanent termination of an individual broker’s brokerage business, what information must the broker include in his written notification to the processing Center?",
+        "options": [
+          "The name, address, email address, and telephone number of the party with legal custody of the brokerage business records",
+          "The names and contact information of the business's clients",
+          "A final triennial status report covering all of the brokerage business conducted from the last status report through the date of termination",
+          "Records from the terminated business for all customs transactions over the previous six months"
+        ],
+        "accepted": [
+          0
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 111.30(e)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-8.jpg",
+            "label": "Original exam page 8"
+          }
+        ]
+      },
+      {
+        "number": 16,
+        "category": "Broker Compliance",
+        "stem": "CBP provided XYZ Brokers with a written demand to produce entry records related to the eligibility of unliquidated entries for a column 1 special rate of duty in the Harmonized Tariff Schedule (HTSUS). If XYZ Brokers fails to timely produce the requested records as a result of negligence, which penalty may CBP impose, absent any exceptions?",
+        "options": [
+          "Liquidate the subject entries at the applicable HTSUS column 1 general rate of duty, in addition to the applicable monetary penalty.",
+          "The subject merchandise shall be considered abandoned and may be put up for sale at public auction.",
+          "Suspend XYZ Broker’s national permit until XYZ Brokers can produce the requested records, in addition to the applicable monetary penalty.",
+          "Impose a monetary penalty of $100,000 or an amount equal to 75 percent of the appraised value of the merchandise, whichever amount is less."
+        ],
+        "accepted": [
+          0
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 163.6(b)(1)(ii); 19 CFR 163.6(b)(2)(i)(A)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-8.jpg",
+            "label": "Original exam page 8"
+          }
+        ]
+      },
+      {
+        "number": 17,
+        "category": "Broker Compliance",
+        "stem": "Bob Broker, an individual licensed customs broker, is employed by Fine Furniture, an importer. Fine Furniture makes classification decisions, valuation decisions, prepares entry summaries, and communicates directly with CBP on technical matters. As part of his employment, Bob Broker uses his individual customs broker license, filer code, and national permit to file customs entries for Fine Furniture's imported merchandise. Fine Furniture compensates Bob Broker as a salaried employee. CBP has determined that Fine Furniture is conducting \"customs business\" without an organizational broker’s license, and Bob Broker is allowing his individual broker’s license to be used by an unlicensed entity to transact “customs business.” This arrangement has been ongoing for 10 separate import transactions. What is the maximum civil penalty that CBP could assess against Fine Furniture for Fine Furniture’s violations?",
+        "options": [
+          "$30,000.00",
+          "$60,000.00",
+          "$100,000.00",
+          "$200,000.00"
+        ],
+        "accepted": [
+          0
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 111.1; 19 CFR 111.91(a); 19 CFR 111.91(b); 19 CFR 111.4; 19 CFR 111.37; 19 CFR 111.53 (c)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-8.jpg",
+            "label": "Original exam page 8"
+          }
+        ]
+      },
+      {
+        "number": 18,
+        "category": "Practical Exercise",
+        "stem": "What type of Power of Attorney (POA) has Broker A executed with General Merchants? CUSTOMS (Import/Export) POWER OF ATTORNEY (1) Check appropriate box: LLC Individual Partnership/ Limited Partnership Corporation x Sole Proprietorship Other (Specify) (2) EIN/SS Number: (3) Importer Account Number(s): (4) Know all persons by these presents that, GENERAL MERCHANTS CORP. (Grantor) (5) A corporation doing business under the laws of the State or Country and Province of DELAWARE (6) Doing business as _____ (7) Residing or having a principal place of business at _____ hereby constitutes and appoints BROKER A (Grantee), its successors or assigns, through their officers, employees, and/or specifically authorized agents specifically authorized to act for such corporation by power of attorney, as a true and lawful agent and attorney of the Grantor named above for and in the name, place and stead of said Grantor from this day and in all U.S. Customs and Border Protection (Customs) Districts and in no other name, as Customs broker and to file entry/entry summary for all commercial shipments from January 15, 2024 onwards. The Grantor authorizes other duly licensed Customs brokers to act as Grantee’s agent. Signed: Thomas P. Willyard Capacity: VICE PRESIDENT of GENERAL MERCHANTS CORP. Date: JANUARY 15, 2024",
+        "options": [
+          "A limited POA",
+          "A general POA with unlimited authority",
+          "An alternative POA for noncommercial shipments",
+          "A POA to appoint a subagent"
+        ],
+        "accepted": [
+          0
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 141.32",
+        "exhibits": [
+          {
+            "src": "assets/oct2026-page-10.jpg",
+            "label": "Source document — exam page 10"
+          }
+        ],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-10.jpg",
+            "label": "Original exam page 10"
+          }
+        ],
+        "referenceText": "As in the real world where client documents may contain errors, the practical exercise documents may contain errors. Examinees should review the documentation carefully and identify any errors. Any errors in the documentation should be taken into account when selecting an answer. A power of attorney (POA) agreement is provided for each question. Although they may not be perfect replicas, they contain all information necessary to answer each question. The following information should be used in addition to the facts and POAs provided for each question. Broker A is a corporate brokerage that transacts customs business on behalf of General Merchants Corp., (General Merchants) an importer. Broker A has a business relationship with a freight forwarder and another customs brokerage and engages both parties to assist with General Merchants’ business. Broker A also has an agreement of compensation with Maria Dowd, a freight forwarder and unlicensed person. Ms. Dowd refers her clients to Broker A, including General Merchants, in exchange for a referral fee."
+      },
+      {
+        "number": 19,
+        "category": "Practical Exercise",
+        "stem": "Freight forwarder Ms. Dowd had executed the following POA with General Merchants before she referred them to Broker A for the transaction of their customs business. Which ONE of the following statements is TRUE regarding actions Ms. Dowd may take? POWER OF ATTORNEY GENERAL MERCHANTS CORP. hereby authorizes MARIA DOWD (Grantee) as its true and lawful agent and attorney-in-fact for the limited purpose of issuing shipping instructions and communications, filing protests, arranging transportation, forwarding, storage, and related logistics services for cargo imported to or exported from the United States from March 21, 2022 onwards. This agreement does not authorize Grantee to transact customs business as defined under 19 CFR Part 111 unless Grantee is duly licensed as a United States Customs Broker and separately authorized for such purpose. Signed: Thomas P. Willyard Capacity: VICE PRESIDENT of GENERAL MERCHANTS CORP. Date: MARCH 21, 2022",
+        "options": [
+          "Ms. Dowd upon request from General Merchants can file a protest as an authorized agent of General Merchants provided that she attaches this POA to the protest she files.",
+          "Ms. Dowd upon request from General Merchants to file a protest must refer this to Broker A as filing a protest constitutes conducting customs business.",
+          "Ms. Dowd may file entries on behalf of General Merchants as an authorized subagent of Broker A.",
+          "Ms. Dowd upon request from General Merchants can file a protest as an attorney at law."
+        ],
+        "accepted": [
+          0
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 141.42; 19 CFR 111.37",
+        "exhibits": [
+          {
+            "src": "assets/oct2026-page-11.jpg",
+            "label": "Source document — exam page 11"
+          }
+        ],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-11.jpg",
+            "label": "Original exam page 11"
+          }
+        ],
+        "referenceText": "As in the real world where client documents may contain errors, the practical exercise documents may contain errors. Examinees should review the documentation carefully and identify any errors. Any errors in the documentation should be taken into account when selecting an answer. A power of attorney (POA) agreement is provided for each question. Although they may not be perfect replicas, they contain all information necessary to answer each question. The following information should be used in addition to the facts and POAs provided for each question. Broker A is a corporate brokerage that transacts customs business on behalf of General Merchants Corp., (General Merchants) an importer. Broker A has a business relationship with a freight forwarder and another customs brokerage and engages both parties to assist with General Merchants’ business. Broker A also has an agreement of compensation with Maria Dowd, a freight forwarder and unlicensed person. Ms. Dowd refers her clients to Broker A, including General Merchants, in exchange for a referral fee."
+      },
+      {
+        "number": 20,
+        "category": "Practical Exercise",
+        "stem": "Ms. Dowd presents Broker A with the following authorization to transact customs business on behalf of another client, USA Imports, a nonresident principal. Which ONE of the following statements is TRUE regarding this POA? CUSTOMS POWER OF ATTORNEY USA IMPORTS (Grantor) hereby authorizes BROKER A (Grantee) as its true and lawful agent and attorney-in-fact to sign documents and transact other business on behalf of the Grantor, from September 30, 2026, onward. Signed: Giovanni Ferrera Capacity: PRESIDENT of USA IMPORTS Date: SEPTEMBER 30, 2026",
+        "options": [
+          "Broker A may act on the authority granted in this POA to transact customs business on behalf of USA Imports and compensate Ms. Dowd for the referral only if Ms. Dowd transmits to USA Imports a true copy of Broker A’s brokerage charges and an itemized list of any charges to be collected for Ms. Dowd’s account through Broker A.",
+          "Broker A may act on the authority granted in this POA to transact customs business on behalf of USA Imports only if Ms. Dowd was granted authority to sign documents on behalf of USA Imports in a preexisting POA.",
+          "Broker A may NOT act on the authority granted in this POA to transact customs business on behalf of USA Imports because it was executed via a freight forwarder.",
+          "Broker A may NOT act on the authority granted in this POA to transact customs business on behalf of USA Imports unless the POA is also signed by Ms. Dowd who is also authorized to accept service of process on behalf of USA Imports."
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 111.36(c)(3)",
+        "exhibits": [
+          {
+            "src": "assets/oct2026-page-12.jpg",
+            "label": "Source document — exam page 12"
+          }
+        ],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-12.jpg",
+            "label": "Original exam page 12"
+          }
+        ],
+        "referenceText": "As in the real world where client documents may contain errors, the practical exercise documents may contain errors. Examinees should review the documentation carefully and identify any errors. Any errors in the documentation should be taken into account when selecting an answer. A power of attorney (POA) agreement is provided for each question. Although they may not be perfect replicas, they contain all information necessary to answer each question. The following information should be used in addition to the facts and POAs provided for each question. Broker A is a corporate brokerage that transacts customs business on behalf of General Merchants Corp., (General Merchants) an importer. Broker A has a business relationship with a freight forwarder and another customs brokerage and engages both parties to assist with General Merchants’ business. Broker A also has an agreement of compensation with Maria Dowd, a freight forwarder and unlicensed person. Ms. Dowd refers her clients to Broker A, including General Merchants, in exchange for a referral fee."
+      },
+      {
+        "number": 21,
+        "category": "Practical Exercise",
+        "stem": "General Widgets, Limited Partnership (LP), a subsidiary of General Merchants, also hires Broker A to handle its customs business and executes the following POA. Why is this POA noncompliant? CUSTOMS POWER OF ATTORNEY KNOW ALL MEN BY THESE PRESENTS: That GENERAL WIDGETS, LP doing business as a limited partnership under the laws of the State of Texas residing or having a place of business at 2960 EL ZAPATO LAREDO, TEXAS hereby constitutes and appoints BROKER A, which may act through any of its licensed officers or employees duly authorized to sign documents by power of attorney as a true and lawful agent and attorney of the grantor named above for and in the name, place, and stead of said grantor from this date and in ALL Customs Ports and in no other name, to make, endorse, sign, declare, or swear to any entry, withdrawal, declaration, certificate, bill of lading, carnet, or other document required by law or regulation in connection with the importation, transportation, or exportation of any merchandise shipped or consigned by or to said grantor; to perform any act or condition which may be required by law or regulation in connection with such merchandise; to receive any merchandise deliverable to said grantor. To receive, endorse and collect checks issued for Customs duty refunds in grantor’s name drawn on the Treasurer of the United States. This power of attorney is to remain in full force and effect until revocation in writing is duly given to and received by grantee; IN WITNESS WHEREOF: the said GENERAL WIDGETS LP has caused these presents to be sealed and signed: (Signature) ___Marco R. Robins___________ (Print Name) _MARCO ROBINS _____________ (Capacity) _MANAGING PARTNER_________ Date: ___JANUARY 2, 2026____________ Witness: (if required) ______________ (Signature) ____________________________ If you are the importer of record, payment to the broker will not relieve you of liability for Customs Charges (duties, taxes, or other debts owed CBP) in the event the charges are not paid by the broker. Therefore, if you pay by check, customs charges may be paid with a separate check payable to U.S. Customs and Border Protection which shall be delivered to CBP by the broker. Importers who wish to utilize this procedure must contact our office in advance to arrange timely receipt of duty checks.",
+        "options": [
+          "Sub-POAs must be entered on CBP Form 5291.",
+          "The signatory does not have the authority to sign documents on behalf of General Widgets.",
+          "The POA does not affirm that General Merchants has full knowledge of the business relationship between its subsidiary and Broker A.",
+          "The POA has been granted for an unlimited period."
+        ],
+        "accepted": [
+          3
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 141.43",
+        "exhibits": [
+          {
+            "src": "assets/oct2026-page-13.jpg",
+            "label": "Source document — exam page 13"
+          }
+        ],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-13.jpg",
+            "label": "Original exam page 13"
+          }
+        ],
+        "referenceText": "As in the real world where client documents may contain errors, the practical exercise documents may contain errors. Examinees should review the documentation carefully and identify any errors. Any errors in the documentation should be taken into account when selecting an answer. A power of attorney (POA) agreement is provided for each question. Although they may not be perfect replicas, they contain all information necessary to answer each question. The following information should be used in addition to the facts and POAs provided for each question. Broker A is a corporate brokerage that transacts customs business on behalf of General Merchants Corp., (General Merchants) an importer. Broker A has a business relationship with a freight forwarder and another customs brokerage and engages both parties to assist with General Merchants’ business. Broker A also has an agreement of compensation with Maria Dowd, a freight forwarder and unlicensed person. Ms. Dowd refers her clients to Broker A, including General Merchants, in exchange for a referral fee."
+      },
+      {
+        "number": 22,
+        "category": "Practical Exercise",
+        "stem": "What does the given entry type indicate for this consumption entry?",
+        "options": [
+          "It is a standard consumption entry with no special requirements",
+          "It is subject to Antidumping or Countervailing Duties (AD/CVD)",
+          "It is subject to Quota or Visa requirements.",
+          "It is filed under a Foreign Trade Zone (FTZ)"
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: ACE BRPD Section 7.1",
+        "exhibits": [
+          {
+            "src": "assets/oct2026-page-14.jpg",
+            "label": "Source document — exam page 14"
+          }
+        ],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-14.jpg",
+            "label": "Original exam page 14"
+          }
+        ],
+        "referenceText": "As in the real world where client documents may contain errors, the practical exercise documents may contain errors. Examinees should review the documentation carefully and identify any errors. Any errors in the documentation should be taken into account when selecting an answer. An excerpted CBP Form 7501 (Entry Summary) is below. Although it is not a perfect replica, it contains all information necessary to answer the following questions along with the following description. Use the following facts and excerpted CBP Form 7501 to answer questions 22-25. Tuna caught and canned in American Samoa was laden on a ship bound for the United States. This shipment enters the United States by ocean via the Seaport of Savannah, GA. 1. Filer Code/Entry 2. Entry 3. Summary Date 4. Surety 5. Bond 6. Port 7. Entry Date Number Type Number Type Code 09/29/2026 09/29/2026 X 02 XXX 8 XXXX 8. Importing Carrier 9. Mode of Transport 10. Country of Origin 11. Import Date USS TUNA 11 American Samoa 09/29/2026"
+      },
+      {
+        "number": 23,
+        "category": "Practical Exercise",
+        "stem": "If entered correctly, Box 6 of the excerpted 7501 Entry Summary shall contain what code?",
+        "options": [
+          "2713",
+          "2720",
+          "1703",
+          "1704"
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: ACE Entry Summary Instructions; HTSUS Annex C, Schedule D",
+        "exhibits": [
+          {
+            "src": "assets/oct2026-page-14.jpg",
+            "label": "Source document — exam page 14"
+          }
+        ],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-14.jpg",
+            "label": "Original exam page 14"
+          }
+        ],
+        "referenceText": "As in the real world where client documents may contain errors, the practical exercise documents may contain errors. Examinees should review the documentation carefully and identify any errors. Any errors in the documentation should be taken into account when selecting an answer. An excerpted CBP Form 7501 (Entry Summary) is below. Although it is not a perfect replica, it contains all information necessary to answer the following questions along with the following description. Use the following facts and excerpted CBP Form 7501 to answer questions 22-25. Tuna caught and canned in American Samoa was laden on a ship bound for the United States. This shipment enters the United States by ocean via the Seaport of Savannah, GA. 1. Filer Code/Entry 2. Entry 3. Summary Date 4. Surety 5. Bond 6. Port 7. Entry Date Number Type Number Type Code 09/29/2026 09/29/2026 X 02 XXX 8 XXXX 8. Importing Carrier 9. Mode of Transport 10. Country of Origin 11. Import Date USS TUNA 11 American Samoa 09/29/2026"
+      },
+      {
+        "number": 24,
+        "category": "Practical Exercise",
+        "stem": "Is a Harbor Maintenance Fee (HMF) applicable to this shipment?",
+        "options": [
+          "Yes, all shipments arriving via seaport are subject to HMF",
+          "Yes, because the tuna had not previously landed on shore",
+          "No, shipments arriving to the port of Savannah are not subject to HMF",
+          "No, because the shipment was loaded within a United States possession"
+        ],
+        "accepted": [
+          3
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 24.24(c)(4)",
+        "exhibits": [
+          {
+            "src": "assets/oct2026-page-14.jpg",
+            "label": "Source document — exam page 14"
+          }
+        ],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-14.jpg",
+            "label": "Original exam page 14"
+          }
+        ],
+        "referenceText": "As in the real world where client documents may contain errors, the practical exercise documents may contain errors. Examinees should review the documentation carefully and identify any errors. Any errors in the documentation should be taken into account when selecting an answer. An excerpted CBP Form 7501 (Entry Summary) is below. Although it is not a perfect replica, it contains all information necessary to answer the following questions along with the following description. Use the following facts and excerpted CBP Form 7501 to answer questions 22-25. Tuna caught and canned in American Samoa was laden on a ship bound for the United States. This shipment enters the United States by ocean via the Seaport of Savannah, GA. 1. Filer Code/Entry 2. Entry 3. Summary Date 4. Surety 5. Bond 6. Port 7. Entry Date Number Type Number Type Code 09/29/2026 09/29/2026 X 02 XXX 8 XXXX 8. Importing Carrier 9. Mode of Transport 10. Country of Origin 11. Import Date USS TUNA 11 American Samoa 09/29/2026"
+      },
+      {
+        "number": 25,
+        "category": "Practical Exercise",
+        "stem": "Of the four choices below, what is the correct format for the Filer Code/Entry Number in Block 1 of the 7501 Entry Summary Form?",
+        "options": [
+          "Eleven-digit alphanumeric code comprised of; three-character alphanumeric entry filer code, seven-digit entry number, and completed with one-digit check digit",
+          "Nine-digit IRS Number, eleven-digit EIN, nine-digit SSN, or eleven-digit CBP assigned number",
+          "Three-digit numeric code, assigned by CBP",
+          "Seven-digit numeric code assigned by the filer"
+        ],
+        "accepted": [
+          0
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: ACE Entry Summary Instructions, page 2",
+        "exhibits": [
+          {
+            "src": "assets/oct2026-page-14.jpg",
+            "label": "Source document — exam page 14"
+          }
+        ],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-15.jpg",
+            "label": "Original exam page 15"
+          }
+        ],
+        "referenceText": "As in the real world where client documents may contain errors, the practical exercise documents may contain errors. Examinees should review the documentation carefully and identify any errors. Any errors in the documentation should be taken into account when selecting an answer. An excerpted CBP Form 7501 (Entry Summary) is below. Although it is not a perfect replica, it contains all information necessary to answer the following questions along with the following description. Use the following facts and excerpted CBP Form 7501 to answer questions 22-25. Tuna caught and canned in American Samoa was laden on a ship bound for the United States. This shipment enters the United States by ocean via the Seaport of Savannah, GA. 1. Filer Code/Entry 2. Entry 3. Summary Date 4. Surety 5. Bond 6. Port 7. Entry Date Number Type Number Type Code 09/29/2026 09/29/2026 X 02 XXX 8 XXXX 8. Importing Carrier 9. Mode of Transport 10. Country of Origin 11. Import Date USS TUNA 11 American Samoa 09/29/2026"
+      },
+      {
+        "number": 26,
+        "category": "Quota",
+        "stem": "Three of the entry types below may be sent to the quota subsystem for processing. Which entry type will NOT be sent to the quota subsystem to process?",
+        "options": [
+          "32",
+          "34",
+          "38",
+          "52"
+        ],
+        "accepted": [
+          1
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: ACE BRPD Section 7.1",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-16.jpg",
+            "label": "Original exam page 16"
+          }
+        ]
+      },
+      {
+        "number": 27,
+        "category": "Quota",
+        "stem": "Global Imports Inc. (Global Imports) has several shipments of refined sugar arriving at the Ports of Los Angeles, CA, and Houston, TX. Due to high demand, the quota for this product oversubscribes at the moment of opening, and CBP announces a proration. Global Imports’ aggregate presented quantity across both ports exceeds its allocated share. To optimize its inventory and distribution, it decides to utilize the \"transfer of allotment\" option, taking a larger portion of its prorated quantity at Los Angeles and a smaller portion at Houston, ensuring it does not exceed its total allowed allocation. Global Imports’ broker should contact _____ to request a transfer of allotment. Information pertaining to this request must be provided to CBP within _____ business days of authorized release of the shipment.",
+        "options": [
+          "Designated Center of Excellence and Expertise; 15",
+          "HQ Quota; 5",
+          "Designated Center of Excellence and Expertise; 5",
+          "HQ Quota; 15"
+        ],
+        "accepted": [
+          1
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: ACE BRPD Section 7.12; 19 CFR 132.13",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-16.jpg",
+            "label": "Original exam page 16"
+          }
+        ]
+      },
+      {
+        "number": 28,
+        "category": "Quota",
+        "stem": "ABC Customs Brokerage located in Miami, Florida is preparing an entry for a shipment to arrive into the port of Los Angeles, California containing flue-cured tobacco from the Republic of South Africa. This tobacco falls under the highly competitive \"other countries\" category of the Tariff Rate Quota (TRQ), which is quickly filling. Logistics provider, Mega Transport, located in Carson, California transmits the arrival notice into ACE with an estimated arrival date of Sunday, May 24, 2026, at 5:00 p.m. Pacific Time. Due to a weather delay, the shipment didn’t arrive into the Port of Los Angeles until Monday, May 25, 2026, at 8:30 a.m. Pacific Time. As a result, Mega Transport re-transmits the actual arrival date and time into ACE. On May 26, 2026, at 5:00 p.m. Eastern Time ABC Customs Brokerage transmits and CBP receives an error free entry and entry summary on daily statement. What is the correct quota presentation date and time for this entry? *Highlighted Dates = Federal Holidays",
+        "options": [
+          "Sunday, May 24, 2026, at 5:00 p.m. Pacific Time",
+          "Monday, May 25, 2026, at 8:30 a.m. Pacific Time",
+          "Tuesday, May 26, 2026 at 2:00 p.m. Pacific Time",
+          "Wednesday, May 27, 2026 at 8:30 a.m. Pacific Time"
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 132.3; ACE BRPD Section 7.6",
+        "exhibits": [
+          {
+            "src": "assets/oct2026-page-17.jpg",
+            "label": "Source document — exam page 17"
+          }
+        ],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-17.jpg",
+            "label": "Original exam page 17"
+          }
+        ]
+      },
+      {
+        "number": 29,
+        "category": "Quota",
+        "stem": "Oceanic Canners Inc. (Oceanic Canners), located in Virginia Beach, Virginia specializes in importing canned tuna, which is subject to quota and the “opening moment” procedures. Oceanic Canners instructs its broker to enter its entire shipment of canned tuna for consumption regardless of the duty rate. For the 2026 quota period (January 1, 2026, to December 31, 2026), its customs broker prepares an entry for a large shipment of canned tuna. The quota for this product opens on Friday, January 2, 2026. On this opening day, the total quantity of canned tuna presented by all importers to CBP significantly exceeds the final quota limit for the year. Which of the following best describes how Oceanic Canners’ entry will be processed for quota purposes?",
+        "options": [
+          "Oceanic Canners’ entry will be rejected entirely, and it must re-submit once the quota reopens.",
+          "Oceanic Canners will receive its full quantity requested at the in-quota duty rate because its entry was submitted on the opening day.",
+          "Oceanic Canners will receive a prorated portion of its requested quantity at the in- quota duty rate, with the remainder subject to the higher over-quota duty rate.",
+          "Oceanic Canners’ entry will be held until the end of the quota period to determine if any remaining quota is available."
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: ACE BRPD Section 7.8; 19 CFR 132.13",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-18.jpg",
+            "label": "Original exam page 18"
+          }
+        ]
+      },
+      {
+        "number": 30,
+        "category": "Quota",
+        "stem": "Best Beef LLC (Best Beef) plans to import beef from Australia in 2026 under a tariff-rate quota. To claim the in-quota duty rate, Best Beef must have a valid export certificate and must report the certificate’s unique identifying number. Australia issued certificate number 123456. Under the applicable requirements, which answer choice shows the correct order of the elements in the export certificate’s unique identifying number?",
+        "options": [
+          "6123456AU",
+          "6AU123456",
+          "AU6123456",
+          "123456AU6"
+        ],
+        "accepted": [
+          1
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 132.15(b)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-18.jpg",
+            "label": "Original exam page 18"
+          }
+        ]
+      },
+      {
+        "number": 31,
+        "category": "Classification",
+        "stem": "Of the four choices below, which is the best CLASSIFICATION of a set of steel hand- tools that includes a screwdriver, an adjustable wrench, slip joint pliers, and a handsaw? The tools are imported and packaged for retail sale in a plastic blister pack.",
+        "options": [
+          "8203.20.40",
+          "8204.12.00",
+          "8205.90.60",
+          "8206.00.00"
+        ],
+        "accepted": [
+          3
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: HTSUS Chapter 82",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-19.jpg",
+            "label": "Original exam page 19"
+          }
+        ]
+      },
+      {
+        "number": 32,
+        "category": "Classification",
+        "stem": "Of the four choices below, which is the best CLASSIFICATION of an integrated rear automotive lighting module designed for a standard 4-door gasoline-powered passenger sedan? The assembly contains an incandescent brake light, a LED turn signal, and a dedicated incandescent reversing (backup) light, all housed within a single plastic casing. The component is imported as an individual replacement part without any wiring harnesses or electronic control units.",
+        "options": [
+          "8512.20.20",
+          "8512.20.40",
+          "8512.90.20",
+          "8708.99.81"
+        ],
+        "accepted": [
+          1
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: HTSUS 8512.20.40; Section XVII, Note 2(f)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-19.jpg",
+            "label": "Original exam page 19"
+          }
+        ]
+      },
+      {
+        "number": 33,
+        "category": "Classification",
+        "stem": "Of the four choices below, which is the best CLASSIFICATION for a woven fabric composed of man-made synthetic fibers? The fabric is woven with yarns of different colors and is composed of 84 percent polyester (of which 90 percent are staple fibers and 10 percent are filament yarns) and 16 percent viscose rayon staple fibers. A polyvinyl chloride plastic coating has been applied to the face of the fabric, which is not visible to the naked eye.",
+        "options": [
+          "5407.93.20",
+          "5514.11.00",
+          "5515.11.00",
+          "5903.10.25"
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: HTSUS Chapter 55; HTSUS Note 2(A) to Section XI; Note 2(a)(1) to Chapter 59",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-19.jpg",
+            "label": "Original exam page 19"
+          }
+        ]
+      },
+      {
+        "number": 34,
+        "category": "Classification",
+        "stem": "Of the four choices below, which heading should be used to classify diammonium hydrogenorthophosphate, which contains 18% nitrogen and 46% phosphorus?",
+        "options": [
+          "Heading 2805",
+          "Heading 3102",
+          "Heading 3104",
+          "Heading 3105"
+        ],
+        "accepted": [
+          3
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: HTSUS Chapter 31, Note 5",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-19.jpg",
+            "label": "Original exam page 19"
+          }
+        ]
+      },
+      {
+        "number": 35,
+        "category": "Classification",
+        "stem": "Of the four choices below, what is the best CLASSIFICATION of organic cassava flat bread? It is 100% cassava flour, containing no wheat flour, cocoa, sugar, milk, meat, or seafood. The manufacturing process entails peeling, grating, dewatering, and steaming. It is imported packaged for retail sale, with 10 slices per 10-ounce package.",
+        "options": [
+          "1106.30.90",
+          "1901.90.91",
+          "1903.00.20",
+          "2008.99.65"
+        ],
+        "accepted": [
+          3
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: HTSUS Chapter 19 Note 2(b)(2); Chapter 20, Note 1; Heading 2008",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-20.jpg",
+            "label": "Original exam page 20"
+          }
+        ]
+      },
+      {
+        "number": 36,
+        "category": "Classification",
+        "stem": "Of the four choices below, which is the best CLASSIFICATION of a pair of unisex “Slip-On Duster Slippers,” designed to be worn on the feet to wipe or sweep dust from the floor from a standing position and composed of polyester woven fabric tufted with polyester chenille yarn, without an applied outer sole?",
+        "options": [
+          "6307.10.20",
+          "6307.90.98",
+          "6405.20.30",
+          "6405.20.90"
+        ],
+        "accepted": [
+          0
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: HTSUS Chapter 64, Note 1(b)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-20.jpg",
+            "label": "Original exam page 20"
+          }
+        ]
+      },
+      {
+        "number": 37,
+        "category": "Classification",
+        "stem": "Of the four choices below, which is the best CLASSIFICATION of a fixed-blade knife intended for use in hunting? The knife features a stainless-steel blade with an acrylonitrile butadiene styrene (ABS) plastic handle and comes in a substantial leather holster.",
+        "options": [
+          "8211.91.50",
+          "8211.92.40",
+          "8211.92.60",
+          "8211.92.90"
+        ],
+        "accepted": [
+          1
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: HTSUS Chapter 82, Statistical Note 2",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-20.jpg",
+            "label": "Original exam page 20"
+          }
+        ]
+      },
+      {
+        "number": 38,
+        "category": "Classification",
+        "stem": "Of the four choices below, which is the best CLASSIFICATION of a steel hairspring (balance spring)? It is a small, slender, flat-coiled spring that regulates a mechanical watch's weighted balance wheel. It causes the wheel to oscillate back and forth in a pendulum-like motion several times per second, which controls the movement of the watch's hands automatically without human intervention. The mechanical watches that use these hairsprings do not contain any electrical connectors, insulators, coils, contacts, or other electrical features.",
+        "options": [
+          "7320.90.10",
+          "9110.19.00",
+          "9111.90.70",
+          "9114.90.34"
+        ],
+        "accepted": [
+          3
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: HTSUS Chapter 91 Note 1(c) and additional U.S. Note 1(g)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-20.jpg",
+            "label": "Original exam page 20"
+          }
+        ]
+      },
+      {
+        "number": 39,
+        "category": "Classification",
+        "stem": "Of the four choices below, which is the best CLASSIFICATION of imitation precious or semiprecious stones made of glass which are designed to be used in jewelry?",
+        "options": [
+          "7018.10.20",
+          "7018.90.50",
+          "7103.99.10",
+          "7104.99.10"
+        ],
+        "accepted": [
+          0
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: HTSUS Chapter 70, Additional U.S. Note 5",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-21.jpg",
+            "label": "Original exam page 21"
+          }
+        ]
+      },
+      {
+        "number": 40,
+        "category": "Classification",
+        "stem": "Of the four descriptions of merchandise below, which merchandise is eligible for the duty treatment provided under subheading 9802.00.80 HTSUS upon importation into the United States? The merchandise is an incandescent-bulb chandelier assembled abroad. The chandelier components being assembled are: a brass frame constructed of shaped brass tubing, a brass chain made of oval links, a wiring loom, bulb sockets, pentagon- shaped glass to fit in the sides of the brass frame. Upon importation, the chandelier will be classified under 9405.19.4010 with a duty rate of 3.9%. The components are being assembled at a plant in Thailand (\"the plant\").",
+        "options": [
+          "The U.S. importer supplied the plant, free of charge, the molds for fabricating the pentagon-shaped glass and for fabricating the brass tubing and chain links. The brass and glass raw materials are obtained by the plant from a business in Thailand. The wiring loom and bulb sockets are imported by the plant from China. All the components, once created, are assembled into a finished chandelier for export to the United States.",
+          "The U.S. importer exported chandelier kits of all the components to the plant. The brass tubing and chain links were fabricated in Germany, the bulb sockets and wiring loom were imported from Barbados, and the glass panels were imported from France. The plant assembles the kit into a finished chandelier for export to the United States.",
+          "The U.S. importer (importer) exported chandelier kits of all the components to the plant. The importer manufactured the brass tubing and oval links in the United States from brass imported from Germany. The importer manufactured the glass panels from sand and sodium carbonate imported from Brazil. The importer purchased the wiring loom and bulb sockets from a U.S. manufacturer. The plant assembles the kit into a finished chandelier for export to the United States.",
+          "The U.S. importer sold the plant the molds for fabricating the pentagon-shaped glass and for fabricating the brass tubing and chain links. The U.S.-origin sand, sodium carbonate, and brass (copper-zinc alloy) are purchased by the plant and imported to Thailand. The U.S. importer manufactures the wiring loom and bulb sockets and exports them to the plant. The plant uses the molds to manufacture the glass panels and brass tubes and links. The plant assembles all the components into a finished chandelier for export to the United States."
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: HTSUS 9802.00.80",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-21.jpg",
+            "label": "Original exam page 21"
+          }
+        ]
+      },
+      {
+        "number": 41,
+        "category": "Entry / Entry Summary",
+        "stem": "Which of the following does NOT qualify for an exception to the country-of-origin marking requirements?",
+        "options": [
+          "Products of the United States exported and returned",
+          "Articles produced more than 20 years prior to their importation into the United States",
+          "Articles imported for use by the importer and not intended for sale in its imported form or any other form",
+          "Articles marked with the name of a location in the United States, intended as part of a souvenir marking"
+        ],
+        "accepted": [
+          3
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 134.47; 19 CFR 134 Subpart D.",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-22.jpg",
+            "label": "Original exam page 22"
+          }
+        ]
+      },
+      {
+        "number": 42,
+        "category": "Entry / Entry Summary",
+        "stem": "Which of the following is NOT an example of “minor processing” when determining the country of origin of imported goods from Canada or Mexico?",
+        "options": [
+          "Cleaning, including removal of rust, grease, paint, or other coatings",
+          "Testing, marking, sorting, or grading",
+          "Trimming, filing or cutting off small amounts of excess material",
+          "Mounting components such as switches and lights in an enclosure"
+        ],
+        "accepted": [
+          3
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 102.1(n)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-22.jpg",
+            "label": "Original exam page 22"
+          }
+        ]
+      },
+      {
+        "number": 43,
+        "category": "Entry / Entry Summary",
+        "stem": "Natty Knickers, Inc. (NK Inc.) submitted a purchase order to a trouser manufacturer for 100 dozen women's woven cotton pajama pants. The manufacturer purchases cotton yarn, grown and spun in Brazil. The yarn is shipped to Turkey where it is woven into fabric and tie-dyed. The tie-dye fabric goes to Vietnam where it is cut and sewn into pajama pants. The pajama pants are then sent to Mexico, where they are washed, packaged, and labeled. NK Inc. imports the pajama pants into the U.S. What is the country of origin of the pajama pants?",
+        "options": [
+          "Brazil",
+          "Mexico",
+          "Turkey",
+          "Vietnam"
+        ],
+        "accepted": [
+          3
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 134.1(b); 19 CFR 102.21(c)(3)(ii)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-22.jpg",
+            "label": "Original exam page 22"
+          }
+        ]
+      },
+      {
+        "number": 44,
+        "category": "Entry / Entry Summary",
+        "stem": "Which ONE of the following statements is TRUE regarding an owner or lessee’s application to establish a bonded warehouse facility?",
+        "options": [
+          "The applicant shall state whether the warehouse facility is to be operated as a public bonded warehouse, only if the application is for a class 2 warehouse.",
+          "The applicant shall state the general character of the merchandise to be stored therein, only if the warehouse facility is to be operated as a public bonded warehouse.",
+          "If the proposed warehouse is covered by fire insurance, the applicant shall submit evidence of the coverage.",
+          "The applicant shall prepare and have available at the warehouse a certification stating that the inventory control and recordkeeping system meets the requirements of 19 CFR 19.12, but this certification is not to be submitted with the application."
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 19.2(b)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-22.jpg",
+            "label": "Original exam page 22"
+          }
+        ]
+      },
+      {
+        "number": 45,
+        "category": "Entry / Entry Summary",
+        "stem": "Which ONE of the four choices below describes merchandise that may be granted domestic status within a Foreign Trade Zone (FTZ)?",
+        "options": [
+          "Foreign merchandise that has been manipulated in a zone and is being transferred back into Customs territory",
+          "Previously imported merchandise on which duty and tax have been paid",
+          "Merchandise admitted into a zone under a Customs Form 214 requiring a formal application and permit",
+          "Merchandise in zone-restricted status that was previously abandoned to the government"
+        ],
+        "accepted": [
+          1
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 146.32(a)(2); 19 CFR 146.44(a)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-23.jpg",
+            "label": "Original exam page 23"
+          }
+        ]
+      },
+      {
+        "number": 46,
+        "category": "Entry / Entry Summary",
+        "stem": "Speedy Transport has delivered an in-bond shipment to the foreign trade zone (FTZ) for Widgets Inc. Upon inspection of the high-security seal at time of unloading, it is determined that the seal has been compromised, cut, and reattached. After reporting the compromised seal to the port director, what shall the FTZ operator do next?",
+        "options": [
+          "Return the shipment back to the arrival port.",
+          "Prepare a certificate to waive the sealing requirement in accordance with 19 CFR 18.4(2).",
+          "Affix the merchandise with a warning label or tag in accordance with 19 CFR 18.4(b)(3) before admitting the shipment into the FTZ.",
+          "Hold the vehicle or container and its contents intact pending instructions from the port director."
+        ],
+        "accepted": [
+          3
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 146.8",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-23.jpg",
+            "label": "Original exam page 23"
+          }
+        ]
+      },
+      {
+        "number": 47,
+        "category": "Entry / Entry Summary",
+        "stem": "Which of the following is TRUE when reporting consignee information on an entry summary?",
+        "options": [
+          "The consignee's social security number (SSN) must only be reported when the importer of record is a foreign entity.",
+          "Consignee information reported on the entry summary must be maintained for cargo release and Importer Security Filing (ISF) purposes.",
+          "The consignee's address is not reported on an entry summary.",
+          "Consignee information must be reported on the entry summary only if it is different from the importer of record."
+        ],
+        "accepted": [
+          1
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: ACE Entry Summary Instructions, page 8",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-23.jpg",
+            "label": "Original exam page 23"
+          }
+        ]
+      },
+      {
+        "number": 48,
+        "category": "Entry / Entry Summary",
+        "stem": "In which scenario is the Surety Code \"999\" used when filing an entry summary?",
+        "options": [
+          "When the bond is waived by regulation",
+          "When a cash deposit is used in place of a bond",
+          "When a single transaction bond amount is unknown",
+          "When a continuous bond is not applicable"
+        ],
+        "accepted": [
+          0
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: ACE Entry Summary Instructions, page 3",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-23.jpg",
+            "label": "Original exam page 23"
+          }
+        ]
+      },
+      {
+        "number": 49,
+        "category": "Entry / Entry Summary",
+        "stem": "A customs broker is preparing an ACE entry summary for merchandise arriving by truck. What should the broker report as the U.S. Port of Unlading?",
+        "options": [
+          "The port of entry where the truck arrives",
+          "The port where the merchandise is released",
+          "No port of unlading; the field should be left blank",
+          "The port nearest to the ultimate consignee"
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: ACE Entry Summary Instructions, page 10",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-24.jpg",
+            "label": "Original exam page 24"
+          }
+        ]
+      },
+      {
+        "number": 50,
+        "category": "Entry / Entry Summary",
+        "stem": "An importer brings commercial samples into the United States under an A.T.A. carnet. Six months after the carnet's issuance, the carnet is physically destroyed in a warehouse fire before the merchandise can be reexported. The importer requests a replacement carnet from the association that issued the original carnet abroad. CBP may NOT accept the replacement carnet if which of the following statements is TRUE?",
+        "options": [
+          "The period of validity for the replacement carnet is set to expire one year from the date of its issuance.",
+          "The replacement carnet includes a description of the commercial samples that exactly matches the description set forth in the importation voucher from the original carnet.",
+          "The commercial samples under the original carnet are physically located within the Customs territory of the United States at the time of the request for a replacement carnet.",
+          "Upon request for the replacement carnet, CBP discovers that the commercial samples are eligible for Temporary Importation under Bond."
+        ],
+        "accepted": [
+          0
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 114.23; 19 CFR 114.25",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-24.jpg",
+            "label": "Original exam page 24"
+          }
+        ]
+      },
+      {
+        "number": 51,
+        "category": "Entry / Entry Summary",
+        "stem": "Which ONE of the four choices below correctly describes the calculation of liquidated damages when there is an anticipatory breach of a temporary importation under bond (TIB)?",
+        "options": [
+          "110 percent of the estimated duties applicable to such an entry, if the subject articles are samples solely for use in taking orders",
+          "Two times the estimated duties applicable to such an entry, if the subject articles originated in Portugal and were imported for sports purposes by a Canadian national",
+          "Two times the estimated duties applicable to such an entry, if the subject articles are professional equipment and repair components thereof",
+          "Three times the estimated duties applicable to such an entry, if the subject articles were entered under a carnet"
+        ],
+        "accepted": [
+          0
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: ACE BRPD Section 5.7; 19 CFR 10.39(d)(1), 19 CFR 10.39(d)(3), 19 CFR 10.39(f)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-24.jpg",
+            "label": "Original exam page 24"
+          }
+        ]
+      },
+      {
+        "number": 52,
+        "category": "Entry / Entry Summary",
+        "stem": "If no law or regulation expressly provides that a lesser amount may be taken, which ONE of the CBP bond amounts is acceptable?",
+        "options": [
+          "$80.00",
+          "$99.99",
+          "$125.00",
+          "$150.50"
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 113.13(a)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-24.jpg",
+            "label": "Original exam page 24"
+          }
+        ]
+      },
+      {
+        "number": 53,
+        "category": "Entry / Entry Summary",
+        "stem": "An unlicensed importation of merchandise is subject to the Treasury Department's Office of Foreign Assets Control (OFAC) regulations and detained at the port of entry. OFAC determines that the merchandise is prohibited by economic sanctions and does NOT authorize immediate re-exportation or other disposition of the merchandise. In this scenario, what shall happen to the prohibited merchandise?",
+        "options": [
+          "The merchandise shall be seized without entry for any purpose.",
+          "The merchandise shall be entered into OFAC possession and held with penalty.",
+          "The merchandise shall be entered into CBP possession and held with penalty.",
+          "The merchandise shall be subject to additional duties and penalties upon entry."
+        ],
+        "accepted": [
+          0
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 12.150(b)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-25.jpg",
+            "label": "Original exam page 25"
+          }
+        ]
+      },
+      {
+        "number": 54,
+        "category": "Entry / Entry Summary",
+        "stem": "A shipment of pesticides arrives in the United States, but the importer fails to present a completed Notice of Arrival (NOA) form to CBP concurrently with the entry documentation. What is the maximum initial period this shipment will be detained by CBP, and within how many calendar days after the expiration of the detention period without extension must the consignee export the shipment to avoid destruction by CBP?",
+        "options": [
+          "10 working days; 30 calendar days",
+          "30 calendar days; 90 calendar days",
+          "30 calendar days; 60 calendar days",
+          "10 working days; 90 calendar days"
+        ],
+        "accepted": [
+          1
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 12.113",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-25.jpg",
+            "label": "Original exam page 25"
+          }
+        ]
+      },
+      {
+        "number": 55,
+        "category": "Entry / Entry Summary",
+        "stem": "Global Imports Inc. has a shipment of industrial machinery in a bonded warehouse, entered under a Type 21 warehouse entry. Due to unforeseen supply chain disruptions, Global Imports Inc. anticipates needing an additional six months beyond the standard five-year end date to arrange for final distribution. Its licensed customs broker submits a written request for an extension to the Center Director, alleging good cause. In which ONE of the following circumstances would CBP be most likely to deny the request for extension?",
+        "options": [
+          "The request was submitted before the fifth year of the bonded warehouse period.",
+          "The request stipulated that Global Imports Inc. is seeking a liquidation extension on an entry Type 32 in addition to the extension of the warehouse period.",
+          "The request for extension was for a warehouse entry summary on which final withdrawal had been reported.",
+          "The request for extension was not accompanied by a payment for anticipated additional storage fees."
+        ],
+        "accepted": [
+          1,
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "The supplied CBP key accepts B or C.",
+        "reason": "Reference citations from the supplied CBP answer key: ACE BRPD Section 12.5",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-25.jpg",
+            "label": "Original exam page 25"
+          }
+        ]
+      },
+      {
+        "number": 56,
+        "category": "Entry / Entry Summary",
+        "stem": "Which ONE of the following entry type changes may be made via a post correction summary (PSC)?",
+        "options": [
+          "A change from entry type 01 to 03",
+          "A change from entry type 02 to 23",
+          "A change from entry type 31 to 32",
+          "A change from entry type 01 to 02"
+        ],
+        "accepted": [
+          0
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: ACE BRPD 6.6",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-25.jpg",
+            "label": "Original exam page 25"
+          }
+        ]
+      },
+      {
+        "number": 57,
+        "category": "Entry / Entry Summary",
+        "stem": "When submitting a post summary correction (PSC), the original entry summary or previously filed PSC must meet which of the following requirements?",
+        "options": [
+          "In accepted status, under CBP review and control, partially paid, and fully liquidated",
+          "In accepted status, not under CBP review, in CBP control, fully paid, and cannot be liquidated",
+          "In entered status, under CBP review, in CBP control, at least partially paid, and liquidated",
+          "In review status, not under CBP review or control, fully paid, and cannot be liquidated"
+        ],
+        "accepted": [
+          1
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: ACE BRPD 6.2",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-26.jpg",
+            "label": "Original exam page 26"
+          }
+        ]
+      },
+      {
+        "number": 58,
+        "category": "Entry / Entry Summary",
+        "stem": "If a customs broker makes entry on behalf of a nominal consignee, who must appear as the importer of record according to Section 484, Tariff Act of 1930?",
+        "options": [
+          "The customs broker",
+          "The nominal consignee",
+          "The Port Director",
+          "The ultimate purchaser of the goods"
+        ],
+        "accepted": [
+          0
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: Right to Make Entry Directive 3530-002A Section 5.1.3",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-26.jpg",
+            "label": "Original exam page 26"
+          }
+        ]
+      },
+      {
+        "number": 59,
+        "category": "Entry / Entry Summary",
+        "stem": "Which one of the following entry types liquidates in 24 hours, cannot be cancelled, and is ineligible for Post Summary Correction (PSC)?",
+        "options": [
+          "Consumption Entry",
+          "Consumption-Antidumping/Countervailing Duty Entry",
+          "Informal Entry",
+          "Warehouse Entry"
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 128.24; ACE BRPD Section 20.2",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-26.jpg",
+            "label": "Original exam page 26"
+          }
+        ]
+      },
+      {
+        "number": 60,
+        "category": "Entry / Entry Summary",
+        "stem": "Absent any exception or extension, how will an entry that has not liquidated within one year from the date of entry of the merchandise, or the date of final withdrawal of all merchandise covered by a warehouse entry, become “deemed liquidated”?",
+        "options": [
+          "By certification of the Center director",
+          "By operation of law",
+          "By importer’s request",
+          "By binding ruling"
+        ],
+        "accepted": [
+          1
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: ACE BRPD Section 1.19; 19 CFR 159.11(a)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-26.jpg",
+            "label": "Original exam page 26"
+          }
+        ]
+      },
+      {
+        "number": 61,
+        "category": "Entry / Entry Summary",
+        "stem": "Sure Customs Brokers (Sure) filed a type 01 Consumption Entry for a shipment of ceramic pottery from Japan on behalf of their client Kyoto Clay Merchants. The date of export for the shipment was August 10, 2026, and the shipment arrived within U.S. port limits on August 12, 2026. Sure filed entry documentation (CBP Form 3461 equivalent) on August 12, 2026, and CBP released the merchandise that same day. Then, Sure filed entry summary (CBP Form 7501) and fully paid estimated duties and fees on August 13, 2026. Sure noted that the entry was in accepted status, under CBP control, and not under CBP review as of August 14, 2026. The certified daily exchange rate was 2% less than the certified quarterly rate for Japan on August 10, 2026, and 6% less on August 12, 2026. The Secretary of the Treasury proclaimed a rate which is 5% greater than the certified quarterly rate for Japan on August 13-17, 2026. Sure used the correct exchange rate specified in CBP’s regulations found in 19 CFR Part 159 to report the entered value of the merchandise. On August 17, 2026, Sure realized that the HTSUS classification for the shipment of ceramic pottery had been entered incorrectly on the entry summary documentation. The entry has not been liquidated. Of the four choices below, what is the best course of action Sure can take to remedy the incorrect entry summary documentation?",
+        "options": [
+          "Recall the entry and entry summary documentation. Request an administrative refund and then re-file accurate entry summary for the shipment. File the new entry summary on August 17, 2026, with the entry summary serving as both the entry documentation and entry summary using the proclaimed exchange rate.",
+          "Recall the entry and entry summary documentation. Request an administrative refund and then re-file accurate entry summary for the shipment. File the new entry summary on August 17, 2026, using the certified daily rate on the new entry summary document.",
+          "File a Post Summary Correction (PSC) to amend the classification. Since the certified quarterly exchange rate was used on the original entry summary documentation, Sure will not seek to amend the certified quarterly exchange rate.",
+          "File a Post Summary Correction (PSC) to amend the classification. Since the certified daily exchange rate was used on the original entry summary documentation, Sure will not seek to amend the certified daily exchange rate."
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 141.67-68; 19 CFR 159.31-34; ACE BRPD Chapter 6 and Section 1.18",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-27.jpg",
+            "label": "Original exam page 27"
+          }
+        ]
+      },
+      {
+        "number": 62,
+        "category": "Entry / Entry Summary",
+        "stem": "A trademark owner is submitting an application to record two of their federally registered trademarks. The trademark owner applies to record each trademark for two classes of goods. How much will the applicant pay in total for these initial recordation applications?",
+        "options": [
+          "$190.00",
+          "$380.00",
+          "$570.00",
+          "$760.00"
+        ],
+        "accepted": [
+          3
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 133.3(b)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-27.jpg",
+            "label": "Original exam page 27"
+          }
+        ]
+      },
+      {
+        "number": 63,
+        "category": "Entry / Entry Summary",
+        "stem": "CBP has notified the importer, in writing, of the detention of merchandise suspected of bearing a counterfeit version of a registered mark. How long is the period within which the importer must respond?",
+        "options": [
+          "3 business days",
+          "5 business days",
+          "7 business days",
+          "10 business days"
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 133.21(b)(2)(ii)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-28.jpg",
+            "label": "Original exam page 28"
+          }
+        ]
+      },
+      {
+        "number": 64,
+        "category": "Entry / Entry Summary",
+        "stem": "What are manufacturing drawback claimants under 19 USC 1313(a) or (b) required to certify, regarding the applicable bill of materials or formula?",
+        "options": [
+          "The claimant is in possession of the applicable bill of materials or formula for the imported article(s), which will be promptly destroyed upon CBP request.",
+          "The bill of materials or formula identifies the imported and/or substituted merchandise and the exported or destroyed article(s) by their 4-digit HTSUS heading numbers.",
+          "The bill of materials or formula identifies the manufactured quantities of the imported and/or substituted merchandise and the exported or destroyed article(s).",
+          "The bill of materials or formula identifies the manufacturer of the imported and/or substituted merchandise and the recipient of the exported or destroyed merchandise."
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 190.29",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-28.jpg",
+            "label": "Original exam page 28"
+          }
+        ]
+      },
+      {
+        "number": 65,
+        "category": "Entry / Entry Summary",
+        "stem": "Jane Sibley, of Sibley Furniture Outlet, needs to destroy merchandise pursuant to an unused merchandise drawback claim under 19 USC 1313(j). Ms. Sibley filed a Notice of Intent to Export, Destroy, or Return Merchandise for Purposes of Drawback on CBP Form 7553, notifying CBP that she intends to destroy the merchandise on the seventh working day after CBP’s receipt of her notice. By the date when the merchandise is set to be destroyed, Ms. Sibley had not received notice of CBP’s decision to witness or not witness the destruction. Ms. Sibley proceeds with the destruction of the merchandise as scheduled, without a determination from CBP. Based on the facts above, which ONE of the following statements is TRUE?",
+        "options": [
+          "Ms. Sibley violated CBP regulations by proceeding with the destruction of merchandise subject to a drawback claim without written approval from CBP.",
+          "The merchandise will be deemed to have been destroyed under CBP supervision. As the drawback claimant, Ms. Sibley has no further obligation to certify the destruction of the merchandise.",
+          "The merchandise must be destroyed to the extent that it has no commercial value. Additionally, the destruction may include a process by which materials are recovered from imported merchandise or from an article manufactured from imported merchandise.",
+          "Ms. Sibley or another officer of Sibley Furniture Outlet must issue evidence of the destruction on CBP Form 7553."
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 190.71",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-28.jpg",
+            "label": "Original exam page 28"
+          }
+        ]
+      },
+      {
+        "number": 66,
+        "category": "Valuation, Appraisement and Duty Assessment",
+        "stem": "The Department of Commerce receives petitions from United States domestic industries to investigate claims of imported goods being sold at less than fair value in United States markets. During this process, what is the first point at which a remedy such as antidumping or countervailing duties typically goes into effect?",
+        "options": [
+          "At the initiation of an investigation",
+          "At the preliminary determination of an investigation",
+          "At the final determination of an investigation",
+          "At the sunset review of the antidumping and/or countervailing duty order"
+        ],
+        "accepted": [
+          1
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 351.205(a) and (c)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-29.jpg",
+            "label": "Original exam page 29"
+          }
+        ]
+      },
+      {
+        "number": 67,
+        "category": "Valuation, Appraisement and Duty Assessment",
+        "stem": "CBP received an allegation on July 1, 2026, from a member of the public against Star Merchant (Star) for the evasion of antidumping duties (AD) on steel products that were made on August 30, 2025, and began an investigation consistent with Enforce and Protect Act (EAPA) orders. CBP has imposed interim measures to protect revenue and issued a Request for Information (RFI) to Star, demanding a description of the covered merchandise as well as operations data, including detailed production records, supply chain maps, and pricing agreements. Star is a client of Gotham Brokers (Gotham), who is authorized to conduct customs business on behalf of Star under a power of attorney with unlimited authority. Star notifies Gotham that it considers all of the information CBP requested to be highly confidential trade secrets and instructs Gotham to redact all documents provided in response to the RFI. Of the four choices below, what is the best advice for Gotham to give Star to prepare a response to the RFI in compliance with CBP regulations?",
+        "options": [
+          "Gotham advises Star to clearly mark the requested documents with a cover page, stating that the submission contains confidential information, and to enclose the covered merchandise descriptions and operations data within brackets and replace the bracketed information with a sufficiently detailed summary that maintains the confidentiality of Star’s trade secrets.",
+          "Gotham advises Star to request that CBP treat its entire submission in response to the RFI as business confidential. Gotham also provides Star with instructions to prepare both a confidential and a public version of the requested documents.",
+          "Gotham advises Star that descriptions of covered merchandise may not be redacted or otherwise treated as “business confidential,” but Star may request that CBP treat its operations data as business confidential. Gotham also provides Star with instructions to prepare business confidential and public versions of the requested documents.",
+          "Gotham advises Star that no response to the RFI is required because the allegation was not timely made."
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 165.2; 19 CFR 165.4; 19 CFR 165.6; 19 CFR 165.26",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-30.jpg",
+            "label": "Original exam page 30"
+          }
+        ]
+      },
+      {
+        "number": 68,
+        "category": "Valuation, Appraisement and Duty Assessment",
+        "stem": "Which program indicator for products eligible for special tariff treatment is used to claim the Column 1 duty preference under the United States-Morocco Free Trade Agreement?",
+        "options": [
+          "MO",
+          "MR",
+          "MC",
+          "MA"
+        ],
+        "accepted": [
+          3
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: HTSUS General Note 27(a)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-30.jpg",
+            "label": "Original exam page 30"
+          }
+        ]
+      },
+      {
+        "number": 69,
+        "category": "Valuation, Appraisement and Duty Assessment",
+        "stem": "The United States-Mexico-Canada Agreement (USMCA) Duty Deferral Entry Program represents a two-part process. What is the deadline for submitting the second part, the claim portion, representing the USMCA country entry information related to the exportation reported in the first part?",
+        "options": [
+          "It is due within 10 calendar days of export.",
+          "It is due within 15 calendar days of export.",
+          "It is due within 60 calendar days of export.",
+          "It is due within 90 calendar days of export."
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 181.53(b); ACE BRPD Section 16.1; 19 CFR 182.53(a)(2)(iii)(C)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-31.jpg",
+            "label": "Original exam page 31"
+          }
+        ]
+      },
+      {
+        "number": 70,
+        "category": "Valuation, Appraisement and Duty Assessment",
+        "stem": "Which ONE of the following articles qualifies for preferential tariff treatment under the Caribbean Basin Economic Recovery Act (CBERA)?",
+        "options": [
+          "Hula hoops that are, by value, 25% United States content and 10% Aruban content.",
+          "Beach umbrellas that are, by value, 15% Jamaican content and 15% Costa Rican content.",
+          "Rum that is, by value, 100% Puerto Rican content. The rum is shipped to the Bahamas to add Bahamas-origin coconut flavor, bottled, and later exported from the Bahamas to the United States.",
+          "Souvenir mugs that are, by value, 40% Haitian content that is shipped to Bermuda for warehousing outside customs control and later exported from Bermuda to the United States."
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: HTSUS General Note 7(a), 7(b), 7(b)(i)(A); 7(b)(i)(B); and 7(b)(v)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-31.jpg",
+            "label": "Original exam page 31"
+          }
+        ]
+      },
+      {
+        "number": 71,
+        "category": "Valuation, Appraisement and Duty Assessment",
+        "stem": "Which ONE of the following amounts is included in transaction value, if it is related to the imported merchandise and required as a condition of the sale for exportation to the United States?",
+        "options": [
+          "Buying commissions",
+          "Royalties",
+          "U.S. inland freight",
+          "Ocean freight cost"
+        ],
+        "accepted": [
+          1
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 152.103(b)(iv)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-31.jpg",
+            "label": "Original exam page 31"
+          }
+        ]
+      },
+      {
+        "number": 72,
+        "category": "Valuation, Appraisement and Duty Assessment",
+        "stem": "If engineering work is necessary for the production of the imported merchandise, it may be an assist for the purposes of appraisement in which ONE of the following scenarios?",
+        "options": [
+          "The engineering work is performed under contract with the U.S. importer by an individual temporarily domiciled within the United States on assignment by his employer in the Netherlands.",
+          "The engineering work is performed under contract with the U.S. importer by an individual domiciled within the United States and works from home for a U.S.- based firm.",
+          "The engineering work is performed by an individual who resides in Ireland but is temporarily in the United States working as an employee of the U.S. importer.",
+          "The engineering work is performed by an individual domiciled in Canada who is a U.S. citizen and works for a U.S. firm under contract with the U.S. importer."
+        ],
+        "accepted": [
+          3
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 152.102(a)(2)(i)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-32.jpg",
+            "label": "Original exam page 32"
+          }
+        ]
+      },
+      {
+        "number": 73,
+        "category": "Valuation, Appraisement and Duty Assessment",
+        "stem": "A U.S. Importer pays $8,953.00 to Brush Factory for a shipment of brooms and mops. The $8,953.00 payment consists of $5,498.00 for the product and $3,455.00 for ocean freight and insurance. Brush Factory would have charged a total of $15,860.00 for the shipment, including the ocean freight and insurance; however, Brush Factory billed a lesser amount because it was indebted to the importer from a past transaction. Based on the facts above, what is the transaction value of the shipment of brooms and mops?",
+        "options": [
+          "$5,498.00",
+          "$8,953.00",
+          "$12,405.00",
+          "$15,860.00"
+        ],
+        "accepted": [
+          2
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 152.103(a)(2)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-32.jpg",
+            "label": "Original exam page 32"
+          }
+        ]
+      },
+      {
+        "number": 74,
+        "category": "Valuation, Appraisement and Duty Assessment",
+        "stem": "A foreign manufacturer sells industrial equipment to an unrelated U.S. buyer. The sales contract states that the buyer must purchase both the equipment and installation-related technical assistance as part of the same transaction. The technical assistance will be performed entirely in the United States after importation. The contract and commercial invoice separately identify each charge. The terms of sale are cost, insurance and freight (CIF) Long Beach, and the invoice lists: • Equipment price: $10,000.00 • International ocean freight: $5,000.00 • Marine insurance: $2,500.00 • Technical assistance performed in the United States after importation: $10,000.00 Which amount should be reported as the transaction value of the imported merchandise?",
+        "options": [
+          "$10,000.00, because the separately stated international ocean freight, marine insurance, and post-importation technical assistance are not included.",
+          "$17,500.00, because CIF charges must be included in transaction value, but post- importation technical assistance is excluded.",
+          "$20,000.00, because the equipment cannot be purchased without the technical assistance.",
+          "$27,500.00, because all amounts paid under a mandatory sales contract are included in transaction value."
+        ],
+        "accepted": [
+          0
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 152.103(i)(2)",
+        "exhibits": [
+          {
+            "src": "assets/oct2026-page-33.jpg",
+            "label": "Source document — exam page 33"
+          }
+        ],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-33.jpg",
+            "label": "Original exam page 33"
+          }
+        ]
+      },
+      {
+        "number": 75,
+        "category": "Valuation, Appraisement and Duty Assessment",
+        "stem": "Tumbler USA imports a specialized mold from Spain with all duties, taxes, and fees paid. The mold, valued at $2,000.00, is then used in the production of goods in the United States. Five years after importing the mold, Tumbler USA sells the mold to company Mugs with Attitude (Mugs). Mugs exports the mold to a company in Canada for use in the production of goods in Canada. The Canadian company pays Mugs a rental fee for use of the mold. The rental of the mold is limited to no more than 3 years. The Canadian company uses the mold for 2.5 years to produce goods, does not change the mold in any way, and then ships it back to Mugs in the United States. The mold is returned to the United States in the same condition in which it was exported. Which ONE of the following statements about the duty associated with the mold is TRUE?",
+        "options": [
+          "The mold is eligible for duty-free entry under subheading 9801.00.10, HTSUS.",
+          "The mold is dutiable based upon its original $2,000.00 value.",
+          "The mold is dutiable based upon its original value less depreciation.",
+          "The mold is fully dutiable upon importation into the United States from Canada."
+        ],
+        "accepted": [
+          0
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: HTSUS 9801.00.10; HTSUS 9801.00.20",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-33.jpg",
+            "label": "Original exam page 33"
+          }
+        ]
+      },
+      {
+        "number": 76,
+        "category": "Valuation, Appraisement and Duty Assessment",
+        "stem": "Which of the following elements is NOT included in the sum used to determine computed value?",
+        "options": [
+          "Packing costs",
+          "Production or fabrication costs",
+          "Profit and general expenses",
+          "Transportation costs"
+        ],
+        "accepted": [
+          3
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 152.106(a)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-34.jpg",
+            "label": "Original exam page 34"
+          }
+        ]
+      },
+      {
+        "number": 77,
+        "category": "Valuation, Appraisement and Duty Assessment",
+        "stem": "Western Bowman (Bowman), a large United States retail store chain, wholly owns a factory in Chile. The factory manufactures ornate, wooden arrow shafts and ships them to Bowman in the United States. Because the parties are related and CBP determined that the relationship influenced the transfer price, transaction value is not acceptable. Transaction value of identical or similar merchandise is also unavailable. The imported arrow shafts are not further processed after importation. They are sold in the United States in the condition as imported. The profit and general expenses of the imported arrow shafts are consistent with those reflected in sales in the United States of imported merchandise. CBP appraises the merchandise using deductive value. The following information is available for one importation of arrow shafts. The arrow shafts are imported from Chile on March 1, 2026. Within 90 days after importation, Bowman sells the arrow shafts to unrelated U.S. retail customers at the following prices and quantities: US Selling Price per Dozen Quantity Sold • $42.00 400 dozen • $39.00 700 dozen • $36.00 300 dozen The following costs are incurred: Item Amount per Dozen • Profit and general expenses in the United States $5.50 • Federal excise tax $7.80 • Ocean freight and insurance from Chile to the U.S. $2.25 • Transportation from place of importation to place of $1.50 delivery in U.S. (already included in general expenses) • Arrow shaft designs undertaken in the U.S. and $2.00 supplied free of charge to the Chilean factory What is the deductive value of one dozen arrow shafts?",
+        "options": [
+          "$19.95",
+          "$20.45",
+          "$21.45",
+          "$23.45"
+        ],
+        "accepted": [
+          3
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 152.105",
+        "exhibits": [
+          {
+            "src": "assets/oct2026-page-35.jpg",
+            "label": "Source document — exam page 35"
+          }
+        ],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-35.jpg",
+            "label": "Original exam page 35"
+          }
+        ]
+      },
+      {
+        "number": 78,
+        "category": "Valuation, Appraisement and Duty Assessment",
+        "stem": "A producer sells copper concentrate to a related buyer. The parties’ sales contract states that the price will be determined by the published market price for copper concentrate on the date of delivery. Neither party can control the published market price. Which statement best describes whether transaction value may be used?",
+        "options": [
+          "Transaction value is automatically unacceptable because the buyer and producer are related persons.",
+          "Transaction value may be acceptable if the relationship between the buyer and producer did not influence the price actually paid or payable.",
+          "Transaction value is unacceptable because any formula-based price is a condition or consideration that prevents valuation.",
+          "Transaction value must be replaced by a test value, which becomes the transaction value of the material."
+        ],
+        "accepted": [
+          1
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 152.103(j)(1)(iv); 19 CFR 152.103(j)(2)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-36.jpg",
+            "label": "Original exam page 36"
+          }
+        ]
+      },
+      {
+        "number": 79,
+        "category": "Valuation, Appraisement and Duty Assessment",
+        "stem": "ABC Company imports a tire cord quality steel wire rod, properly classified under 7213.91.3011, HTSUS. The country of origin is the United Kingdom, and the item is subject to an antidumping duty cash deposit rate of 147.63%. The item is shipped via air to New York, NY and formally entered into U.S. commerce. What is the total amount of fees and estimated duties if the value of the shipment is $53,429.00, the Merchandise Processing Fee is 0.3464% ($33.56 minimum and $651.50 maximum for the applicable fiscal year), and the Harbor Maintenance Fee is 0.125%?",
+        "options": [
+          "$185.08",
+          "$251.87",
+          "$78,877.23",
+          "$79,062.31"
+        ],
+        "accepted": [
+          3
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 24.23 (b)(1)(i); 19 CFR 24.24 (a); ACE Entry Summary Instructions, page 1",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-36.jpg",
+            "label": "Original exam page 36"
+          }
+        ]
+      },
+      {
+        "number": 80,
+        "category": "Valuation, Appraisement and Duty Assessment",
+        "stem": "If the Merchandise Processing Fee (MPF) is 0.3464%, what is the MPF for the shipment described below if the MPF is higher than the minimum and lower than the maximum for the applicable fiscal year? A shipment of lighting parts from Italy is classified under 9405.99.4090, HTSUS, dutiable at 6%, and subject to antidumping duties of 13.19%. The buyer pays a total of $89,000.00 for the goods, which includes $4,500.00 ocean freight, $1,000.00 insurance, $250.00 for customs brokerage fees, $15,000.00 CBP duties and fees, MPF paid, and is delivered duty paid (DDP) to Los Angeles. The buyer pays an additional $500.00 for rail freight from Los Angeles to Kentucky.",
+        "options": [
+          "$241.25",
+          "$289.24",
+          "$308.30",
+          "$425.00"
+        ],
+        "accepted": [
+          0
+        ],
+        "creditAll": false,
+        "scoringNote": "",
+        "reason": "Reference citations from the supplied CBP answer key: 19 CFR 152.102(f); 19 CFR 152.105; 19 CFR 24.23(b)(1)(i)(A)",
+        "exhibits": [],
+        "sourcePages": [
+          {
+            "src": "assets/oct2026-page-37.jpg",
+            "label": "Original exam page 37"
+          }
+        ]
+      }
+    ]
   }
 ]

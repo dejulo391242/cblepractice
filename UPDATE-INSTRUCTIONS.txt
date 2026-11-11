@@ -1,16 +1,20 @@
-CBLE Study — three-exam update
+CBLE STUDY UPDATE — OCTOBER 2026 + REFERENCE DESK
 
-Adds May 2024, October 2024 and April 2025, while retaining October 2025 and April 2026. Total: five exams, 400 questions.
+1. Unzip this file.
+2. Open your cblestudy repository on GitHub. Choose Add file > Upload files.
+3. Drag the extracted files AND the assets and references folders into the upload area at the repository root (the same level as index.html). Do not upload the ZIP itself or an enclosing folder.
+4. Commit changes. Keep existing files not included in this update, especially older assets. No Pages setting changes are needed.
+5. Wait for GitHub Pages to publish, then reload your site. If it looks unchanged, refresh with the browser cache cleared.
 
-1. Unzip this download.
-2. Open https://github.com/dejulo391242/cblestudy
-3. Choose Add file → Upload files.
-4. Drag in app.js, exams.json and the assets folder from this package. Upload their contents at the repository root, not inside an extra folder. Existing files with the same names are updated; keep the existing assets.
-5. Commit changes to main. GitHub Pages will update your existing website.
-6. Refresh https://dejulo391242.github.io/cblestudy/ after deployment completes. If you still see two exams, reload bypassing the browser cache.
+Includes six exams / 480 questions. October 2026 has all 80 questions, original-page images, and the supplied key. Question 55 accepts B or C.
 
-No changes to Pages settings are needed. Existing exam IDs and their question order are unchanged, preserving compatible saved progress in the same browser.
+Reference desk opens separately so you can keep a test open. Five document tabs, section shortcuts, bookmark filtering, personal starred tabs, and PDF page jumps are included. Stars and remembered jump pages are saved only in that browser. Use the PDF viewer's search for document text. Open PDF is available if embedded viewing is unsupported.
 
-New exams use the supplied CBP answer keys, with reference citations shown after submission. April 2025 question 55 accepts C or D. Scanned exhibits and shared practical-exercise facts are attached to the relevant questions. Original question pages are available in an expandable view for checking table layout. Voluntary survey questions are excluded.
+These editions match the uploaded October 2026 examination:
+- 2026 HTS Basic Edition (no supplements)
+- 19 CFR, revised April 1, 2025, all three volumes
+- ACE Entry Summary Instructions 2.4a
+- Right to Make Entry, Directive 3530-002A (June 27, 2001)
+- ACE Entry Summary Business Rules and Process Document 12.0 (December 2023)
 
-For future additions, provide the next exam and its answer key, and the repository URL. This package does not publish changes automatically.
+Older and future exams may specify different editions. This is a study reference desk, not a statement about permitted electronic tools at the actual exam. Original government documents, official source links, and retrieval mirror links where used are listed in the desk's Edition and source panel.
